@@ -1,2 +1,2 @@
 # Only-HTML
-This website contains html informations
+This website contains html knowledge
